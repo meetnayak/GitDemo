@@ -18,4 +18,10 @@ public class RESTAPITest{
 	{
 		System.out.println("postTwitter");
 	}
+	
+	@Test
+	public void Twitter555()
+	{
+		System.out.println("postTwitter555");
+	}
 }

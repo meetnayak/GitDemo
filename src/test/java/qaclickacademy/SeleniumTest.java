@@ -16,5 +16,11 @@ class SeleniumTest {
 		System.out.println("BrowserCasual");
 	}
 	
+	@Test
+	public void BrowserSpecialty()
+	{
+		System.out.println("BrowserSpecialty");
+	}
+	
 
 }
