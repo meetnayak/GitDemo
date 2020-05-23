@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="181" started-at="2020-05-01T05:47:53Z" finished-at="2020-05-01T05:47:53Z">
+  <suite name="Default suite" duration-ms="52" started-at="2020-05-23T04:16:11Z" finished-at="2020-05-23T04:16:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="181" started-at="2020-05-01T05:47:53Z" finished-at="2020-05-01T05:47:53Z">
-      <class name="qaclickacademy.AppiumTest">
-        <test-method status="PASS" signature="AppleApps()[pri:0, instance:qaclickacademy.AppiumTest@4dfa3a9d]" name="AppleApps" duration-ms="48" started-at="2020-05-01T11:17:53Z" finished-at="2020-05-01T11:17:53Z">
+    <test name="Default test" duration-ms="52" started-at="2020-05-23T04:16:11Z" finished-at="2020-05-23T04:16:11Z">
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="Insta()[pri:0, instance:qaclickacademy.RESTAPITest@464bee09]" name="Insta" duration-ms="24" started-at="2020-05-23T09:46:11Z" finished-at="2020-05-23T09:46:11Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- AppleApps -->
-        <test-method status="PASS" signature="NativeApps()[pri:0, instance:qaclickacademy.AppiumTest@4dfa3a9d]" name="NativeApps" duration-ms="2" started-at="2020-05-01T11:17:53Z" finished-at="2020-05-01T11:17:53Z">
+        </test-method> <!-- Insta -->
+        <test-method status="PASS" signature="Twitter()[pri:0, instance:qaclickacademy.RESTAPITest@464bee09]" name="Twitter" duration-ms="1" started-at="2020-05-23T09:46:11Z" finished-at="2020-05-23T09:46:11Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- NativeApps -->
-      </class> <!-- qaclickacademy.AppiumTest -->
+        </test-method> <!-- Twitter -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
