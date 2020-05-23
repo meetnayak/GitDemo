@@ -24,4 +24,12 @@ public class RESTAPITest{
 	{
 		System.out.println("postTwitter555");
 	}
+	
+	public void Insta123()
+	{
+		System.out.println("postjira1");
+		System.out.println("postjira5");
+		System.out.println("postjira7");
+	}	
+	
 }
